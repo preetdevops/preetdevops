@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preet Kaur</h1>
-<h3 align="center">Learning Java and passionate to contribute in open-source</h3>
+<h3 align="center">Learning JS and SwiftUI and passionate to contribute in open-source</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
